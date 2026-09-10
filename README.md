@@ -79,7 +79,6 @@ The project analyzes:
 
 * `seasonal_agriculture_performance_dataset.csv` — Dataset
 * `Seasonal_Agriculture_Performance_Analysis.ipynb` — Jupyter Notebook
-* `Seasonal_Agriculture_Performance_Project_Final_With_Graphs.pptx` — Project Presentation
 
 ---
 
