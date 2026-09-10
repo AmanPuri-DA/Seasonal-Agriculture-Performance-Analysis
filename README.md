@@ -20,7 +20,6 @@ A Python-based data analysis project that studies **seasonal agricultural perfor
 * **NumPy** — Numerical operations
 * **Matplotlib & Seaborn** — Data visualization
 * **Jupyter Notebook** — Analysis workflow
-* **ChatGPT** — Code understanding, debugging & analysis guidance
 
 ## 🔍 Analysis Performed
 
