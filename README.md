@@ -29,7 +29,6 @@ A Python-based data analysis project that studies **seasonal agricultural perfor
 * Irrigation analysis
 * Resource and water-efficiency analysis
 * Correlation analysis
-* One-way ANOVA statistical testing
 * Data visualization
 
 ## 📈 Key Outcomes
